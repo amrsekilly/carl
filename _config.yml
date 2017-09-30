@@ -25,8 +25,8 @@ defaults:
 locale: en
 title_separator: "-"
 name: "@carlvlewis"
-url: https://carlvlewis.github.io
-baseurl:
+url: /
+baseurl: /
 repository: carlvlewis/carlvlewis.github.io
 teaser:
 words_per_minute: 50
