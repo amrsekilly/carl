@@ -25,7 +25,7 @@ defaults:
 locale: en
 title_separator: "-"
 name: "@carlvlewis"
-url: https://amrsekilly.github.io/carl
+url: https://amrsekilly.github.io
 baseurl: /
 repository: carlvlewis/carlvlewis.github.io
 teaser:
