@@ -188,9 +188,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: "/tags/"
-tag_archive_portfolio:
-  type: liquid
-  path: "/portfolio-tags/"
 compress_html:
   clippings: all
   ignore:
